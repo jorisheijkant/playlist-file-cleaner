@@ -1,5 +1,5 @@
 # Playlist file cleaner 
-A simple Pythons script that takes a txt-export from iTunes (Apple Music) and removes all information except for the artist and track title. The output text file can be used for Soundcloud descriptions etc. Ideal for dj's! 
+A simple Python script that takes a text export from iTunes (Apple Music) and removes all information except for the artist and track title. The output text file can be used for Soundcloud descriptions etc. Ideal for dj's! 
 
 ## Requirements
 - Have a version of [Python](https://www.python.org/) installed on your system. That's it!
